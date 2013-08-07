@@ -1,0 +1,2 @@
+import testCases
+testCases.printInput()
